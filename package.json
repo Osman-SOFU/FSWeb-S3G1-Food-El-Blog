@@ -3,7 +3,7 @@
   "version": "0.0.9",
   "main": "index.js",
   "dependencies": {
-    "@babel/core": "^7.17.8",
+    "@babel/core": "^7.26.0",
     "@babel/plugin-transform-runtime": "^7.17.0",
     "@babel/preset-env": "^7.16.11",
     "@testing-library/dom": "^8.12.0",
